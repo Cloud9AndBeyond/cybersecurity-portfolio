@@ -1,4 +1,4 @@
-[YOUR NAME]
+NICOLE SMITH
 Cybersecurity Analyst | Vulnerability Management
 
 Business Administration & Management graduate transitioning into cybersecurity, focused on vulnerability management, security operations, network security, risk assessment, and cloud security.
